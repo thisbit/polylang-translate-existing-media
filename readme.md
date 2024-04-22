@@ -1,4 +1,4 @@
-# Polylang Add-on: Translate existing media
+# Polylang Add-on: Translate existing media (I plan to develop this plugin further, without deadline :) )
 
 **Contributors:** [Teemu Suoranta](https://github.com/TeemuSuoranta)
 
